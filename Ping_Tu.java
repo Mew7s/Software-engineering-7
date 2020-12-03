@@ -17,6 +17,6 @@ public class Ping_Tu{
 
     public Ping_Tu(int i) {
         number = i;
-        new ImageSplit("out\\production\\pingtu\\1.jpg",(int)(Math.sqrt(number)));
+        new ImageSplit("1.jpg",(int)(Math.sqrt(number)));
     }
 }
